@@ -52,3 +52,6 @@ GET http://localhost:3000/authors/1/books/
 
 ###
 GET http://localhost:3000/authors/1/books/43/
+
+### 
+GET http://localhost:3000/authors/1/books/1/
